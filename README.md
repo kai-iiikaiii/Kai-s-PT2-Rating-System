@@ -5,7 +5,7 @@ No build is required; simply open `index.html` in your browser to run it.
 
 ## How to use
 
-1. 
+1. Access to https://kai-iiikaiii.github.io/Kai-s-PT2-Rating-System/
 2. Drop your `song.json` 
 3. Enter your **Final Score**
 4. The final TPS and rating will be displayed

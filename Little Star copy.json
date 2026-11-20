@@ -1,0 +1,42 @@
+{
+  "baseBpm": 90,
+  "musics": [
+    {
+      "bpm": 90,
+      "baseBeats": 0.5,
+      "scores": [
+        "5<c[L],c[L],c[L],c[L],c[L],c[L],c[L],c[L],c[L],c[L]>,R,R,R,R;",
+        ""
+      ],
+      "id": 1
+    },
+    {
+      "bpm": 95,
+      "baseBeats": 0.5,
+      "scores": [
+        "",
+        ""
+      ],
+      "id": 2
+    },
+    {
+      "bpm": 100,
+      "baseBeats": 0.5,
+      "scores": [
+        "",
+        ""
+      ],
+      "id": 3
+    }
+  ],
+  "audition": {
+    "end": [
+      0,
+      27
+    ],
+    "start": [
+      0,
+      0
+    ]
+  }
+}
